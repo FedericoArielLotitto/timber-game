@@ -39,3 +39,6 @@ Debug
 *.vcxproj
 *.vcxproj.filters
 *.vcxproj.users
+
+#.vs carpet 
+.vs
